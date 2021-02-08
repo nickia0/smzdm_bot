@@ -1,4 +1,4 @@
-什么值得买每日签到脚本
+什么值得买每日签到脚本:::::
 ===
 
 <p align="center">
@@ -43,4 +43,4 @@ first push
 
 + 2020-12-12  
 修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。  
-现在没有`SERVERCHAN_SECRETKEY`也可以正常签到并不报错。
+现在没有`SERVERCHAN_SECRETKEY`也可以正常签到并不报错。      
